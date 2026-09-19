@@ -1,0 +1,11 @@
+print("***Enter Student details***")
+Name =input("Enter Your name here:-")
+Age = int (input("Enter your age here:-"))
+city = input("Enter your city name here:")
+Marks = input("Enter your marks here")
+
+print("***Check your student details***")
+print(Name)
+print(Age)
+print(city)
+print(Marks)

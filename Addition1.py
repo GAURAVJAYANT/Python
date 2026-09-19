@@ -1,0 +1,6 @@
+print("***Enter two numbers for the addition***")
+a = int(input ("Enter the first number"))
+print(" The vale of a is:-" ,a)
+b = int(input("Enter the second number"))
+print(" The vale of b is:-" ,b)
+print("The addition of a and b", int (a)+ int (b))

@@ -1,0 +1,5 @@
+print("***Rectangle calculation+++")
+Length = int (input("Enter the value of Length here:-"))
+Width = int (input("Enter the value of Width here:-"))
+print("Area of rectangle:-",Length*Width)
+print ("Perimeter of rectangle:-",2*(Length+Width))
