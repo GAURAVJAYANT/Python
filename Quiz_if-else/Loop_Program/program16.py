@@ -1,6 +1,9 @@
-largest=0
-number =int(input("enter the value here:-"))
+largest = 0
+
 for i in range(5):
-    number>largest
-    largest=largest+number
-    print(largest)
+    number = int(input("Enter the value here: "))
+
+    if number > largest:
+        largest = number
+
+print("Largest number =", largest)
